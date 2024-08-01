@@ -1,4 +1,5 @@
-A responsive and intuitive web application for converting currencies using real-time exchange rates. This project leverages the ExchangeRate-API to provide accurate and up-to-date currency conversion rates.
+A responsive and intuitive web application for converting currencies using real-time exchange rates.
+This project leverages the ExchangeRate-API to provide accurate and up-to-date currency conversion rates.
 
 Features
 Real-Time Conversion: Get the latest exchange rates and perform conversions between various currencies.
