@@ -7,7 +7,7 @@ Swap Functionality: Easily swap between the 'From' and 'To' currencies with a si
 Responsive Design: A user-friendly interface that works seamlessly across different devices.
 Dynamic Currency Selection: Choose from a wide range of currencies for conversion.
 Error Handling: Robust error handling for API requests to ensure a smooth user experience.
-Tech Stack
+Tech Stack.
 Frontend: React, Tailwind CSS
 Backend: ExchangeRate-API
 Tooling: Vite
